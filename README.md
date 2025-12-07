@@ -10,7 +10,7 @@
 
 ## 🎥 Demo
 
-📹 **[Watch Demo Video](./demo/demo-video.mp4)**
+📹 **[Watch Demo Video](./demo/demo.mp4)**
 
 > **Note**: Add your demonstration video file to the `demo/` folder in the project root.
 
